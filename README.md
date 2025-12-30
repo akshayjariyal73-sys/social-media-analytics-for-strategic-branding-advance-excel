@@ -264,7 +264,7 @@ The project includes the following dashboards and charts:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/spotify-social-media-analytics.git
+git clone https://github.com/akshayjariyal73-sys/social-media-analytics-for-strategic-branding-advance-excel.git
 cd spotify-social-media-analytics
 ```
 
