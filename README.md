@@ -352,7 +352,6 @@ cd spotify-social-media-analytics
 
 ---
 
-## Contact & Next Steps
 
 ### 📧 Questions or Suggestions?
 Feel free to reach out with feedback or collaboration opportunities!
