@@ -358,10 +358,9 @@ cd spotify-social-media-analytics
 Feel free to reach out with feedback or collaboration opportunities!
 
 ### 🔗 Connect With Me
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** [Your Email]
-- **Portfolio:** [Your Portfolio/Website]
-- **GitHub:** [Your GitHub Profile]
+- **LinkedIn:** www.linkedin.com/in/akshay-jariyal-37aa39174
+- **Email:** ajaries1997@gmail.com
+
 
 ---
 
