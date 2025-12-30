@@ -256,7 +256,7 @@ The project includes the following dashboards and charts:
 🎯 **Hashtag Performance Heatmap** – Frequency vs. Engagement  
 📱 **Content Type Performance** – Reel vs. Story vs. Text comparison  
 
-[View Visualizations Folder](./visualizations/)
+
 
 ---
 
